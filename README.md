@@ -4,7 +4,7 @@
 
 A portfolio page to show off some personal projects I've created. 
 
-![alt text](./assests/images/screencapture-127-0-0-1-5502-index-html-2022-10-30-14_41_49.png)
+![alt text](./assests/images/code_savy_screenshot.png)
 
 ## Usage
 Deployed code at [Code Savvy](https://savannahvel.github.io/code_savvy/)
