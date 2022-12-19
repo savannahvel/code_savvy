@@ -187,6 +187,11 @@ img[data-description="landing-profile-picture"] {
     width: 100%;
 }
 
+.description {
+    padding: 1rem 0;
+}
+
+
 .contact-list {
     margin: 0;
     padding: 1rem 0;
